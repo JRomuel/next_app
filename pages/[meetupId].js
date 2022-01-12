@@ -2,7 +2,7 @@ import { MongoClient, ObjectId } from 'mongodb';
 import { Fragment } from 'react';
 import Head from 'next/head';
 import MeetupDetail from "../components/meetups/MeetupDetail";
-
+// 
 function meetupDetails(props) {
 
     return(
